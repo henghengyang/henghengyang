@@ -4,6 +4,8 @@
 
 ### Hi there 👋
 
+> enjoy coding
+
 - 🔭 I’m currently working on java web development
 
 <!--
