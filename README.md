@@ -1,5 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henghengyang&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=henghengyang&count_private=true&layout=compact&line_height=20&hide_title=true)
+
+| <img align="center" src="https://github-readme-stats-bcvuso9kl-henghengyang.vercel.app/api?&username=henghengyang&layout=compact&theme=buefy&hide_border=true&hide_title=true" alt="henghengyang's github stats" />| <img align="center" src="https://github-readme-stats-bcvuso9kl-henghengyang.vercel.app/api/top-langs/?username=henghengyang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />|
+| ------------- | ------------- |
 
 ### Hi there 👋
 
